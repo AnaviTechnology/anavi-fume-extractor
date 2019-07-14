@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name anavi-light-controller-rescue)(type Legacy)(uri ${KIPRJMOD}/anavi-light-controller-rescue.lib)(options "")(descr ""))
+)

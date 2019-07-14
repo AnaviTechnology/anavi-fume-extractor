@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name anavi-light-controller-rescue)(type Legacy)(uri ${KIPRJMOD}/anavi-light-controller-rescue.lib)(options "")(descr ""))
+  (lib (name ESP8266)(type Legacy)(uri ${KIPRJMOD}/components/ESP8266.lib)(options "")(descr ""))
+  (lib (name mylibrary)(type Legacy)(uri ${KIPRJMOD}/components/mylibrary.lib)(options "")(descr ""))
+  (lib (name w_connectors)(type Legacy)(uri ${KIPRJMOD}/components/excellent-collection/w_connectors.lib)(options "")(descr ""))
+  (lib (name rur)(type Legacy)(uri ${KIPRJMOD}/components/rur.lib)(options "")(descr ""))
+)
