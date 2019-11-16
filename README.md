@@ -9,7 +9,7 @@ ANAVI Fume Extractor is an open source hardware development board with ESP8266 a
 * Slot for analog MQ gas sensor
 * UART (Universal asynchronous receiver/transmitter) pins for debugging
 
-Open source software for ANAVI Fume Extractor written as an Arduino sketch is also available at GitHub](https://github.com/AnaviTechnology/anavi-fume-extractor-sw).
+[Open source software for ANAVI Fume Extractor written as an Arduino sketch is also available at GitHub](https://github.com/AnaviTechnology/anavi-fume-extractor-sw).
 
 # License
 
